@@ -1,0 +1,235 @@
+{"source": "1.", "target": "2", "relation": "CITES"}
+{"source": "(1)", "target": "1", "relation": "CITES"}
+{"source": "(2)", "target": "1", "relation": "CITES"}
+{"source": "(2)", "target": "2", "relation": "CITES"}
+{"source": "(3)", "target": "1", "relation": "CITES"}
+{"source": "2.", "target": "Concept:advance tax", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:agricultural income", "relation": "DEFINES"}
+{"source": "2.", "target": "117", "relation": "CITES"}
+{"source": "2.", "target": "117", "relation": "CITES"}
+{"source": "2.", "target": "23", "relation": "CITES"}
+{"source": "2.", "target": "252", "relation": "CITES"}
+{"source": "2.", "target": "120", "relation": "CITES"}
+{"source": "2.", "target": "117", "relation": "CITES"}
+{"source": "2.", "target": "117", "relation": "CITES"}
+{"source": "2.", "target": "10", "relation": "CITES"}
+{"source": "2.", "target": "Concept:population", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:Additional Commissioner", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:Additional Director", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:Appellate Tribunal", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:approved gratuity fund", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:approved superannuation fund", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:assessee", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:Assessing Officer", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:assessment year", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:Assistant Commissioner", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:Assistant Director", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:average rate of income-tax", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:block of assets", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:Board", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:business trust", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:capital asset", "relation": "DEFINES"}
+{"source": "2.", "target": "115AD", "relation": "CITES"}
+{"source": "2.", "target": "2", "relation": "CITES"}
+{"source": "2.", "target": "Concept:population", "relation": "DEFINES"}
+{"source": "2.", "target": "117", "relation": "CITES"}
+{"source": "2.", "target": "117", "relation": "CITES"}
+{"source": "2.", "target": "117", "relation": "CITES"}
+{"source": "2.", "target": "Concept:Chief Commissioner", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:Commissioner", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:Commissioner (Appeals)", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:company", "relation": "DEFINES"}
+{"source": "2.", "target": "25", "relation": "CITES"}
+{"source": "2.", "target": "620", "relation": "CITES"}
+{"source": "2.", "target": "117", "relation": "CITES"}
+{"source": "2.", "target": "Concept:co-operative society", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:Deputy Commissioner", "relation": "DEFINES"}
+{"source": "2.", "target": "72A", "relation": "CITES"}
+{"source": "2.", "target": "117", "relation": "CITES"}
+{"source": "2.", "target": "117", "relation": "CITES"}
+{"source": "2.", "target": "117", "relation": "CITES"}
+{"source": "2.", "target": "77A", "relation": "CITES"}
+{"source": "2.", "target": "Concept:demerged company", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:Deputy Commissioner (Appeals)", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:Deputy Director", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:Director General or Director", "relation": "DEFINES"}
+{"source": "2.", "target": "2", "relation": "CITES"}
+{"source": "2.", "target": "115WB", "relation": "CITES"}
+{"source": "2.", "target": "10", "relation": "CITES"}
+{"source": "2.", "target": "Concept:concern", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:domestic company", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:electoral trust", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:foreign company", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:fringe benefits", "relation": "DEFINES"}
+{"source": "2.", "target": "17", "relation": "CITES"}
+{"source": "2.", "target": "160", "relation": "CITES"}
+{"source": "2.", "target": "28", "relation": "CITES"}
+{"source": "2.", "target": "41", "relation": "CITES"}
+{"source": "2.", "target": "59", "relation": "CITES"}
+{"source": "2.", "target": "28", "relation": "CITES"}
+{"source": "2.", "target": "28", "relation": "CITES"}
+{"source": "2.", "target": "28", "relation": "CITES"}
+{"source": "2.", "target": "28", "relation": "CITES"}
+{"source": "2.", "target": "28", "relation": "CITES"}
+{"source": "2.", "target": "45", "relation": "CITES"}
+{"source": "2.", "target": "44", "relation": "CITES"}
+{"source": "2.", "target": "10", "relation": "CITES"}
+{"source": "2.", "target": "28", "relation": "CITES"}
+{"source": "2.", "target": "28", "relation": "CITES"}
+{"source": "2.", "target": "56", "relation": "CITES"}
+{"source": "2.", "target": "56", "relation": "CITES"}
+{"source": "2.", "target": "56", "relation": "CITES"}
+{"source": "2.", "target": "56", "relation": "CITES"}
+{"source": "2.", "target": "56", "relation": "CITES"}
+{"source": "2.", "target": "56", "relation": "CITES"}
+{"source": "2.", "target": "56", "relation": "CITES"}
+{"source": "2.", "target": "43", "relation": "CITES"}
+{"source": "2.", "target": "117", "relation": "CITES"}
+{"source": "2.", "target": "Concept:Income-tax Officer", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:India", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:Indian company", "relation": "DEFINES"}
+{"source": "2.", "target": "80", "relation": "CITES"}
+{"source": "2.", "target": "80", "relation": "CITES"}
+{"source": "2.", "target": "80", "relation": "CITES"}
+{"source": "2.", "target": "80", "relation": "CITES"}
+{"source": "2.", "target": "80", "relation": "CITES"}
+{"source": "2.", "target": "80", "relation": "CITES"}
+{"source": "2.", "target": "117", "relation": "CITES"}
+{"source": "2.", "target": "2", "relation": "CITES"}
+{"source": "2.", "target": "3", "relation": "CITES"}
+{"source": "2.", "target": "117", "relation": "CITES"}
+{"source": "2.", "target": "117", "relation": "CITES"}
+{"source": "2.", "target": "2", "relation": "CITES"}
+{"source": "2.", "target": "3", "relation": "CITES"}
+{"source": "2.", "target": "6", "relation": "CITES"}
+{"source": "2.", "target": "Concept:infrastructure capital company", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:infrastructure capital fund", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:Inspector of Income-tax", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:interest", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:interest on securities", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:insurer", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:Joint Commissioner", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:Joint Director", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:long-term capital asset", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:long-term capital gain", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:maximum marginal rate", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:National Tax Tribunal", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:non-resident", "relation": "DEFINES"}
+{"source": "2.", "target": "3", "relation": "CITES"}
+{"source": "2.", "target": "117", "relation": "CITES"}
+{"source": "2.", "target": "117", "relation": "CITES"}
+{"source": "2.", "target": "117", "relation": "CITES"}
+{"source": "2.", "target": "117", "relation": "CITES"}
+{"source": "2.", "target": "617", "relation": "CITES"}
+{"source": "2.", "target": "21", "relation": "CITES"}
+{"source": "2.", "target": "132", "relation": "CITES"}
+{"source": "2.", "target": "172", "relation": "CITES"}
+{"source": "2.", "target": "174", "relation": "CITES"}
+{"source": "2.", "target": "175", "relation": "CITES"}
+{"source": "2.", "target": "176", "relation": "CITES"}
+{"source": "2.", "target": "192", "relation": "CITES"}
+{"source": "2.", "target": "115A", "relation": "CITES"}
+{"source": "2.", "target": "115B", "relation": "CITES"}
+{"source": "2.", "target": "115BB", "relation": "CITES"}
+{"source": "2.", "target": "115BBB", "relation": "CITES"}
+{"source": "2.", "target": "115E", "relation": "CITES"}
+{"source": "2.", "target": "164", "relation": "CITES"}
+{"source": "2.", "target": "164A", "relation": "CITES"}
+{"source": "2.", "target": "167B", "relation": "CITES"}
+{"source": "2.", "target": "115A", "relation": "CITES"}
+{"source": "2.", "target": "115B", "relation": "CITES"}
+{"source": "2.", "target": "115BB", "relation": "CITES"}
+{"source": "2.", "target": "115BBB", "relation": "CITES"}
+{"source": "2.", "target": "115E", "relation": "CITES"}
+{"source": "2.", "target": "164", "relation": "CITES"}
+{"source": "2.", "target": "164A", "relation": "CITES"}
+{"source": "2.", "target": "167B", "relation": "CITES"}
+{"source": "2.", "target": "115A", "relation": "CITES"}
+{"source": "2.", "target": "115B", "relation": "CITES"}
+{"source": "2.", "target": "115BB", "relation": "CITES"}
+{"source": "2.", "target": "115BBB", "relation": "CITES"}
+{"source": "2.", "target": "115E", "relation": "CITES"}
+{"source": "2.", "target": "164", "relation": "CITES"}
+{"source": "2.", "target": "164A", "relation": "CITES"}
+{"source": "2.", "target": "167B", "relation": "CITES"}
+{"source": "2.", "target": "194LBA", "relation": "CITES"}
+{"source": "2.", "target": "194LBB", "relation": "CITES"}
+{"source": "2.", "target": "194LBC", "relation": "CITES"}
+{"source": "2.", "target": "195", "relation": "CITES"}
+{"source": "2.", "target": "90", "relation": "CITES"}
+{"source": "2.", "target": "90A", "relation": "CITES"}
+{"source": "2.", "target": "90", "relation": "CITES"}
+{"source": "2.", "target": "90A", "relation": "CITES"}
+{"source": "2.", "target": "143", "relation": "CITES"}
+{"source": "2.", "target": "144", "relation": "CITES"}
+{"source": "2.", "target": "6", "relation": "CITES"}
+{"source": "2.", "target": "Concept:prescribed", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:previous year", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:Principal Chief Commissioner of Income-tax", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:Principal Commissioner of Income-tax", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:Principal Director of Income-tax", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:Principal Director General of Income-tax", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:public sector company", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:recognised provident fund", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:regular assessment", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:resulting company", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:resident", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:short-term capital asset", "relation": "DEFINES"}
+{"source": "2.", "target": "10", "relation": "CITES"}
+{"source": "2.", "target": "49", "relation": "CITES"}
+{"source": "2.", "target": "28", "relation": "CITES"}
+{"source": "2.", "target": "47", "relation": "CITES"}
+{"source": "2.", "target": "47", "relation": "CITES"}
+{"source": "2.", "target": "47", "relation": "CITES"}
+{"source": "2.", "target": "47", "relation": "CITES"}
+{"source": "2.", "target": "47", "relation": "CITES"}
+{"source": "2.", "target": "115AC", "relation": "CITES"}
+{"source": "2.", "target": "47", "relation": "CITES"}
+{"source": "2.", "target": "47", "relation": "CITES"}
+{"source": "2.", "target": "49", "relation": "CITES"}
+{"source": "2.", "target": "2", "relation": "CITES"}
+{"source": "2.", "target": "115WB", "relation": "CITES"}
+{"source": "2.", "target": "112A", "relation": "CITES"}
+{"source": "2.", "target": "Concept:short-term capital gain", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:slump sale", "relation": "DEFINES"}
+{"source": "2.", "target": "115WA", "relation": "CITES"}
+{"source": "2.", "target": "5", "relation": "CITES"}
+{"source": "2.", "target": "53A", "relation": "CITES"}
+{"source": "2.", "target": "Concept:tax credit certificate", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:Tax Recovery Officer", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:total income", "relation": "DEFINES"}
+{"source": "2.", "target": "269UA", "relation": "CITES"}
+{"source": "2.", "target": "Concept:virtual digital asset", "relation": "DEFINES"}
+{"source": "2.", "target": "2", "relation": "CITES"}
+{"source": "2.", "target": "36", "relation": "CITES"}
+{"source": "2.", "target": "10", "relation": "CITES"}
+{"source": "2.", "target": "Concept:non-fungible token", "relation": "DEFINES"}
+{"source": "2.", "target": "Concept:zero coupon bond", "relation": "DEFINES"}
+{"source": "(1)", "target": "2", "relation": "CITES"}
+{"source": "(1)", "target": "Concept:advance tax", "relation": "DEFINES"}
+{"source": "(1A)", "target": "2", "relation": "CITES"}
+{"source": "(1A)", "target": "Concept:agricultural income", "relation": "DEFINES"}
+{"source": "(a)", "target": "2", "relation": "CITES"}
+{"source": "(a)", "target": "2", "relation": "CITES"}
+{"source": "(b)", "target": "2", "relation": "CITES"}
+{"source": "(b)", "target": "2", "relation": "CITES"}
+{"source": "(c)", "target": "2", "relation": "CITES"}
+{"source": "(1B)", "target": "2", "relation": "CITES"}
+{"source": "(i)", "target": "2", "relation": "CITES"}
+{"source": "(i)", "target": "2", "relation": "CITES"}
+{"source": "(ii)", "target": "2", "relation": "CITES"}
+{"source": "(ii)", "target": "2", "relation": "CITES"}
+{"source": "(iii)", "target": "2", "relation": "CITES"}
+{"source": "(iii)", "target": "2", "relation": "CITES"}
+{"source": "(1C)", "target": "2", "relation": "CITES"}
+{"source": "(1C)", "target": "117", "relation": "CITES"}
+{"source": "(1C)", "target": "Concept:Additional Commissioner", "relation": "DEFINES"}
+{"source": "(1D)", "target": "2", "relation": "CITES"}
+{"source": "(1D)", "target": "117", "relation": "CITES"}
+{"source": "(1D)", "target": "Concept:Additional Director", "relation": "DEFINES"}
+{"source": "(2)", "target": "2", "relation": "CITES"}
+{"source": "(2)", "target": "23", "relation": "CITES"}
+{"source": "(3)", "target": "2", "relation": "CITES"}
+{"source": "(4)", "target": "2", "relation": "CITES"}
+{"source": "(4)", "target": "252", "relation": "CITES"}
+{"source": "(4)", "target": "Concept:Appellate Tribunal", "relation": "DEFINES"}
