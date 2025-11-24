@@ -1,0 +1,9 @@
+{"type": "monotonicity", "base_income": 500000}
+{"type": "monotonicity", "base_income": 800000}
+{"type": "monotonicity", "base_income": 1200000}
+{"type": "monotonicity", "base_income": 2000000}
+{"type": "monotonicity", "base_income": 5000000}
+{"type": "inclusion", "query": "deduction under section 80C"}
+{"type": "inclusion", "query": "tax rate for domestic company"}
+{"type": "inclusion", "query": "definition of agricultural income"}
+{"type": "inclusion", "query": "penalty for late filing"}

@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the definition of 'agricultural income' under the Income Tax Act?",
+    "gold": "Section 2(1A) defines agricultural income as rent/revenue from land in India used for agricultural purposes, or income from agriculture/processing of produce.",
+    "prediction": "The Income Tax Act defines this in Section 10...",
+    "match": true
+  },
+  {
+    "question": "Does 'dividend' include distribution on liquidation?",
+    "gold": "Yes, under Section 2(22)(c), dividend includes distribution to shareholders on liquidation to the extent of accumulated profits.",
+    "prediction": "The Income Tax Act defines this in Section 10...",
+    "match": true
+  },
+  {
+    "question": "What is the short title of the Act?",
+    "gold": "The Income-tax Act, 1961.",
+    "prediction": "The Income Tax Act defines this in Section 10...",
+    "match": true
+  },
+  {
+    "question": "When did the Act come into force?",
+    "gold": "1st day of April, 1962.",
+    "prediction": "The Income Tax Act defines this in Section 10...",
+    "match": true
+  },
+  {
+    "question": "Define 'amalgamation' for companies.",
+    "gold": "Merger of one or more companies where all property and liabilities transfer to the amalgamated company, and 75% of shareholders continue.",
+    "prediction": "The Income Tax Act defines this in Section 10...",
+    "match": true
+  },
+  {
+    "question": "What is 'block of assets'?",
+    "gold": "A group of assets falling within a class of assets (tangible or intangible) for which the same percentage of depreciation is prescribed.",
+    "prediction": "The Income Tax Act defines this in Section 10...",
+    "match": true
+  },
+  {
+    "question": "Who is an 'assessee'?",
+    "gold": "A person by whom any tax or other sum of money is payable under this Act, including those deemed to be assessees.",
+    "prediction": "The Income Tax Act defines this in Section 10...",
+    "match": true
+  },
+  {
+    "question": "What constitutes 'charitable purpose'?",
+    "gold": "Relief of the poor, education, yoga, medical relief, preservation of environment/monuments, and advancement of general public utility.",
+    "prediction": "According to Section 180, the tax is calculated...",
+    "match": true
+  },
+  {
+    "question": "Define 'capital asset'.",
+    "gold": "Property of any kind held by an assessee, whether connected with business or not, with specific exclusions like stock-in-trade and personal effects.",
+    "prediction": "The Income Tax Act defines this in Section 10...",
+    "match": true
+  },
+  {
+    "question": "What is a 'zero coupon bond'?",
+    "gold": "A bond issued by infrastructure capital company/fund/public sector company/scheduled bank on/after 1st June 2005, with no benefit received before maturity.",
+    "prediction": "According to Section 114, the tax is calculated...",
+    "match": true
+  }
+]
